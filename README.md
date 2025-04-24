@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Aditya-AKP/Aditya-AKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Aditya Kumar
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about developing software, and I enjoy building projects that impact people in real life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🔭 I’m currently working on **[Your Current Project or Focus]**.
+- 🌱 I’m currently learning **[Technologies or Skills you’re learning]**.
+- 👯 I’m looking to collaborate on **[Types of Projects or Topics]**.
+- 💬 Ask me about **[Your Expertise or Interests]**.
+- ⚡ Fun fact: **[A fun or interesting fact about you]**.
+
+---
+
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
+- **Programming Languages:** [List languages, e.g., Python, JavaScript, etc.]
+- **Frameworks & Libraries:** [List frameworks, e.g., React, Django, etc.]
+- **Tools & Platforms:** [List tools, e.g., Git, Docker, AWS, etc.]
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-AKP&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 📫 Email: contact.adityakp@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 🌍 Portfolio: [Your Website](https://your-website.com)
+
+---
+
+Thank you for visiting my profile! 😊
