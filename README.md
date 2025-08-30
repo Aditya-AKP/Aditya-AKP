@@ -26,9 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-akp&show_icons=true&locale=en&layout=compact" alt="aditya-akp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-akp&show_icons=true&locale=en" alt="aditya-akp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-akp&" alt="aditya-akp" /></p>
 
 
 Thank you for visiting my profile! 😊
