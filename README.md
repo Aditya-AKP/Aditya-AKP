@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://aditya-akp-portfolio-website.netlify.app/](https://aditya-akp-portfolio-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aditya-akp-portfolio-website.netlify.app/)
 
 - 📫 How to reach me **contact.adityakp@gmail.com**
 
@@ -19,6 +19,8 @@
 <a href="https://www.youtube.com/c/akp-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akp-developer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityados3030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityados3030" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityakumarakp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityakumarakp" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditya_akp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_akp" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aditya_akp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_akp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +30,4 @@
 
 
 
-Thank you for visiting my profile! 😊
+<p>Thank you for visiting my profile! 😊</p>
